@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-            print("<h1>Hello world!</h1>");
+            print("<h2>Hello world!</h2>");
         ?>
     </body>
 </html>
